@@ -1,2 +1,3 @@
 this is sample
 it is second edit
+checking the git status -s command
