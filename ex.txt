@@ -4,3 +4,4 @@ checking the git status -s command
 checking the git diff
 check the commit
 quitting the vim
+version2
